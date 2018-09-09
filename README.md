@@ -9,4 +9,8 @@ This is my first change
 2. git commit -m 
    - commits your changes with a memo/message
 3. git push
-   - pushes the repo to the master branch
+   - pushes the repo to the master branch]]\
+
+
+
+some more changes
